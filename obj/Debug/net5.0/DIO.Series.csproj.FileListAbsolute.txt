@@ -1,0 +1,16 @@
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/lpic1/Documentos/DIO/workspace/Avanade/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
